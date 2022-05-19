@@ -14,13 +14,13 @@ This project builds a web application that scrapes various websites for data rel
 
 Wrote a Jupyter notebook script using BeautifulSoup, Pandas, and Requests/Splinter to scrape the data related to Mission to Mars from various websites.
 
-#### NASA Mars News
+#### NASA's Mars News
 
 Scraped the NASA Mars News Site and collected the latest News Title and Paragraph Text. Assigned the text to variables that can be referenced later.
 
-#### JPL Mars Space Featured Image
+#### Mars Space Featured Image
 
-Visited the url for JPL Featured Space Image here.
+Visited the url for Featured Space Image here.
 Used splinter to navigate the site and found the image url to the full size .jpg image for the current Featured Mars Image and assigned the complete url string for the image to a variable called featured_image_url.
 
 #### Mars Facts
