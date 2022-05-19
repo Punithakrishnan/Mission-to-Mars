@@ -1,8 +1,8 @@
 # Mission-To-Mars
 
-### Web Scraping 
+### Web Scraping Gist
 
-About | Web Scraping | NASA Mars News | JPL Mars Space Featured Image | Mars Facts | Mars Hemispheres | MongoDB and Flask Application | Programming Language / Applications Used | Contributors
+Overview | Web Scraping | NASA's Mars News | Mars Space Featured Image | Mars Facts | Mars Hemispheres | MongoDB and Flask Application | Programming Language | Applications Used 
 
 ---
 
