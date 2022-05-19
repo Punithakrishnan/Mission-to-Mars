@@ -4,9 +4,13 @@
 
 About | Web Scraping | NASA Mars News | JPL Mars Space Featured Image | Mars Facts | Mars Hemispheres | MongoDB and Flask Application | Programming Language / Applications Used | Contributors
 
+---
+
 ### Overview
 
 This project builds a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
+
+---
 
 ### Web Scraping
 
